@@ -197,12 +197,12 @@ export const DATA = {
     {
       title: "TryHackMe",
       dates: "2021-Today",
-      //location: "London, Ontario",
+      location: "Online",
       description:
         "Learnt about every Aspect of Cybersecurity.",
       image:
         "tryhackme.png",
-      //mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
+      mlh: "",
       links: []
     },
     // {
