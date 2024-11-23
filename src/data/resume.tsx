@@ -153,6 +153,7 @@ export const DATA = {
     {
       school: "A.S.D.B. Dadawala Jr. College",
       degree: "HSC",
+      href: "",
       logoUrl: "/asdb.png",
       start: "2019",
       end: "2021",
@@ -160,6 +161,7 @@ export const DATA = {
     {
       school: "The New Millennium English Medium School",
       degree: "SSC",
+      href: "",
       logoUrl: "/tnms.png",
       start: "2019",
       end: "2019"
