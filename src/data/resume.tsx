@@ -202,7 +202,7 @@ export const DATA = {
         "Learnt about every Aspect of Cybersecurity.",
       image:
         "tryhackme.png",
-      mlh: "",
+      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: []
     },
     // {
