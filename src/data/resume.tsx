@@ -197,7 +197,7 @@ export const DATA = {
     {
       title: "TryHackMe",
       dates: "2021-Today",
-      location: "Online",
+      location: "Remote",
       description:
         "Learnt about every Aspect of Cybersecurity.",
       image:
